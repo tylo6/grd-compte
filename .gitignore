@@ -1,0 +1,20 @@
+# Dépendances Node (lourdes, reconstituables via npm install)
+node_modules/
+package-lock.json
+
+# Fichier CSS Leaflet patché (reconstituable via le setup du README)
+leaflet_embedded.css
+
+# Logs de géocodage (générés automatiquement, données locales)
+geocoding_warnings.log
+
+# Fichiers système macOS
+.DS_Store
+**/.DS_Store
+
+# Fichiers d'environnement (clés API éventuelles)
+.env
+.env.*
+
+# Dossier de session Claude Code
+.claude/
