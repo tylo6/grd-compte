@@ -1,4 +1,4 @@
-# Carte Grands Comptes — Antea Group
+# Carte Grands Comptes
 
 Carte interactive des 26 Grands Comptes d'Antea Group en France.
 Fichier HTML autonome (zéro CDN externe), publiable sur GitHub Pages ou Cloudflare Pages.
